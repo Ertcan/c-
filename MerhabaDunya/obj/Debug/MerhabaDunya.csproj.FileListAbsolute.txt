@@ -1,0 +1,9 @@
+C:\Users\kale_\Projeler\C#\MerhabaDunya\bin\Debug\MerhabaDunya.exe
+C:\Users\kale_\Projeler\C#\MerhabaDunya\bin\Debug\MerhabaDunya.pdb
+C:\Users\kale_\Projeler\C#\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.AssemblyReference.cache
+C:\Users\kale_\Projeler\C#\MerhabaDunya\obj\Debug\MerhabaDunya.Form1.resources
+C:\Users\kale_\Projeler\C#\MerhabaDunya\obj\Debug\MerhabaDunya.Properties.Resources.resources
+C:\Users\kale_\Projeler\C#\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.GenerateResource.cache
+C:\Users\kale_\Projeler\C#\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.CoreCompileInputs.cache
+C:\Users\kale_\Projeler\C#\MerhabaDunya\obj\Debug\MerhabaDunya.exe
+C:\Users\kale_\Projeler\C#\MerhabaDunya\obj\Debug\MerhabaDunya.pdb

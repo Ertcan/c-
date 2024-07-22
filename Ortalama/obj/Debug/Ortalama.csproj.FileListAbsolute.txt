@@ -1,0 +1,6 @@
+C:\Users\kale_\Projeler\C#\Ortalama\bin\Debug\Ortalama.exe
+C:\Users\kale_\Projeler\C#\Ortalama\bin\Debug\Ortalama.pdb
+C:\Users\kale_\Projeler\C#\Ortalama\obj\Debug\Ortalama.csproj.AssemblyReference.cache
+C:\Users\kale_\Projeler\C#\Ortalama\obj\Debug\Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\kale_\Projeler\C#\Ortalama\obj\Debug\Ortalama.exe
+C:\Users\kale_\Projeler\C#\Ortalama\obj\Debug\Ortalama.pdb

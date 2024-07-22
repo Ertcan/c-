@@ -1,0 +1,5 @@
+C:\Users\kale_\Projeler\C#\MiniAtm\bin\Debug\MiniAtm.exe
+C:\Users\kale_\Projeler\C#\MiniAtm\bin\Debug\MiniAtm.pdb
+C:\Users\kale_\Projeler\C#\MiniAtm\obj\Debug\MiniAtm.csproj.CoreCompileInputs.cache
+C:\Users\kale_\Projeler\C#\MiniAtm\obj\Debug\MiniAtm.exe
+C:\Users\kale_\Projeler\C#\MiniAtm\obj\Debug\MiniAtm.pdb

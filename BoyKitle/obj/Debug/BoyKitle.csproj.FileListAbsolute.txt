@@ -1,0 +1,5 @@
+C:\Users\kale_\Projeler\C#\BoyKitle\bin\Debug\BoyKitle.exe
+C:\Users\kale_\Projeler\C#\BoyKitle\bin\Debug\BoyKitle.pdb
+C:\Users\kale_\Projeler\C#\BoyKitle\obj\Debug\BoyKitle.csproj.CoreCompileInputs.cache
+C:\Users\kale_\Projeler\C#\BoyKitle\obj\Debug\BoyKitle.exe
+C:\Users\kale_\Projeler\C#\BoyKitle\obj\Debug\BoyKitle.pdb
